@@ -1,0 +1,25 @@
+{
+  "name": "trackone",
+  "version": "1.0.0",
+  "description": "TrackOne é um sistema corporativo de **gestão de frota de veículos**.   O projeto está em desenvolvimento e será construído com:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paduladiego/TrackOne.git"
+  },
+  "author": "Padula.One",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paduladiego/TrackOne/issues"
+  },
+  "homepage": "https://github.com/paduladiego/TrackOne#readme",
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
